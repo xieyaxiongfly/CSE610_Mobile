@@ -1,0 +1,15 @@
+intro: |
+  Assignments and projects in this course are individual (or team) creative work. Individuals must reach their own understanding of the problem and discover a path to its solution. Discussions with classmates about concepts are encouraged. However, when the time comes to write the code or the report that solves the problem, such discussions are no longer appropriate; the submission must be your (or your team's) own work.
+
+  Do not, under any circumstances, copy or adapt code, comments, figures, or text that is not your own work. This includes character-by-character transliteration of another work, as well as derivative works (e.g., renaming variables or subtly reordering statements to hide that copying has occurred).
+
+  ## Coding Style
+  All code you turn in for this course should have good style: proper indentation, descriptive comments, and a header at the beginning of each file with your name, UB username, and a description of the file.
+
+  ## Version Control
+  Because accidents happen and it is good practice, we require you to use a version control system to maintain your code for this course. Set up an account with GitHub, GitLab, or Bitbucket.
+
+  **You must configure these services to use a private repository. Do NOT under any circumstances make your code public, including after the course is over.**
+
+  ## The assignment details
+assignments: []

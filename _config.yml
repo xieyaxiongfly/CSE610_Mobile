@@ -1,0 +1,57 @@
+course_name: CSE610 Mobile Systems and Edge Intelligence
+course_description: |
+  This course examines how modern mobile and embedded systems sense, communicate, and compute, and how machine intelligence is pushed from the cloud to the edge and onto the device itself. Topics span mobile and wireless sensing, mobile platform and OS architecture, energy- and latency-aware system design, edge/cloud offloading, on-device inference, model compression and acceleration, and privacy in mobile and edge deployments. The course is research-oriented: students read and present recent papers from venues such as MobiCom, MobiSys, SenSys, NSDI, and MLSys, and complete a semester-long project.
+
+  The objective of the course is to enable students to critically evaluate research in mobile systems and edge intelligence, and to design, build, and measure a system that runs intelligence under real mobile constraints.
+
+  At the end of this course, each student should be able to:
+  - Explain the architecture of modern mobile and edge computing platforms and the constraints (energy, thermal, memory, bandwidth, latency) that shape their design.
+  - Describe mobile sensing and wireless sensing pipelines, from raw signals to features to inference.
+  - Analyze the trade-offs between on-device, edge, and cloud execution, and reason about offloading and partitioning decisions.
+  - Apply model compression, quantization, and hardware acceleration techniques to run deep models on resource-constrained devices.
+  - Read, present, and critique state-of-the-art research papers in mobile systems and edge intelligence.
+  - Design, implement, and empirically evaluate a research-quality mobile or edge system, and report the results clearly.
+course_semester: Fall 2026
+baseurl: /CSE610_Mobile
+url: https://xieyaxiongfly.github.io
+schoolname: University at Buffalo, SUNY
+schoolurl: https://buffalo.edu
+logo_path: /_images/UB_logo.jpg
+logo_width: 75
+address: 'Computer Science and Engineering
+
+  University at Buffalo, SUNY
+
+  Buffalo, NY, USA
+
+  '
+markdown: kramdown
+permalink: blog/:year/:month/:title
+excerpt_separator: <!--more-->
+include:
+- _images
+- _css
+exclude:
+- develop
+- dashboard
+- vendor
+- ".bundle"
+- Gemfile
+- Gemfile.lock
+dateformat: '%m/%d/%Y'
+future: true
+collections:
+  events:
+    output: true
+  lectures:
+    output: true
+  assignments:
+    output: true
+  announcements:
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: assignments
+  values:
+    layout: assignment
