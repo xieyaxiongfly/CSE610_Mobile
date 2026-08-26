@@ -2,10 +2,24 @@ course_schedule:
   semester_start: '2026-08-24'
   semester_end: '2026-12-07'
   class_days:
-  - day: tuesday
-    time: '15:00'
+  - day: wednesday
+    time: '16:30'
   holidays:
   - '2026-10-13'
   - '2026-11-26'
 lectures: []
-lecture_sequence: []
+lecture_sequence:
+- topic: Introduction
+  materials: []
+- topic: Wireless Communication System
+  materials: []
+- topic: MIMO and OFDM
+  materials: []
+- topic: Localization
+  materials: []
+- topic: Wireless Sensing
+  materials: []
+- topic: Mobile Networks
+  materials: []
+- topic: Mid-Term Exam
+  materials: []

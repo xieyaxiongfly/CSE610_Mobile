@@ -1,51 +1,84 @@
 modules:
 - type: markdown
   title: Course Information
-  body: |
-    **Lecture Time:** TBA
-    **Location:** TBA
-    **Semester:** Fall 2026
+  body: "**Lecture Time:** 4:00PM - 6:50PM Wednesday\r\n\r\n**Location:** 148, Park\
+    \ Hall\r\n\r\n**Semester:** Fall 2026"
 - type: markdown
   title: Course Description
-  body: |
-    This course examines how modern mobile and embedded systems sense, communicate, and compute, and how machine intelligence is pushed from the cloud to the edge and onto the device itself. Topics span mobile and wireless sensing, mobile platform and OS architecture, energy- and latency-aware system design, edge/cloud offloading, on-device inference, model compression and acceleration, and privacy in mobile and edge deployments. The course is research-oriented: students read and present recent papers from venues such as MobiCom, MobiSys, SenSys, NSDI, and MLSys, and complete a semester-long project.
+  body: 'This course examines how modern mobile and embedded systems sense, communicate,
+    and compute, and how machine intelligence is pushed from the cloud to the edge
+    and onto the device itself. Topics span mobile and wireless sensing, mobile platform
+    and OS architecture, energy- and latency-aware system design, edge/cloud offloading,
+    on-device inference, model compression and acceleration, and privacy in mobile
+    and edge deployments. The course is research-oriented: students read and present
+    recent papers from venues such as MobiCom, MobiSys, SenSys, NSDI, and MLSys, and
+    complete a semester-long project.
 
-    The objective of the course is to enable students to critically evaluate research in mobile systems and edge intelligence, and to design, build, and measure a system that runs intelligence under real mobile constraints.
+
+    The objective of the course is to enable students to critically evaluate research
+    in mobile systems and edge intelligence, and to design, build, and measure a system
+    that runs intelligence under real mobile constraints.
+
 
     At the end of this course, each student should be able to:
-    - Explain the architecture of modern mobile and edge computing platforms and the constraints (energy, thermal, memory, bandwidth, latency) that shape their design.
-    - Describe mobile sensing and wireless sensing pipelines, from raw signals to features to inference.
-    - Analyze the trade-offs between on-device, edge, and cloud execution, and reason about offloading and partitioning decisions.
-    - Apply model compression, quantization, and hardware acceleration techniques to run deep models on resource-constrained devices.
-    - Read, present, and critique state-of-the-art research papers in mobile systems and edge intelligence.
-    - Design, implement, and empirically evaluate a research-quality mobile or edge system, and report the results clearly.
+
+    - Explain the architecture of modern mobile and edge computing platforms and the
+    constraints (energy, thermal, memory, bandwidth, latency) that shape their design.
+
+    - Describe mobile sensing and wireless sensing pipelines, from raw signals to
+    features to inference.
+
+    - Analyze the trade-offs between on-device, edge, and cloud execution, and reason
+    about offloading and partitioning decisions.
+
+    - Apply model compression, quantization, and hardware acceleration techniques
+    to run deep models on resource-constrained devices.
+
+    - Read, present, and critique state-of-the-art research papers in mobile systems
+    and edge intelligence.
+
+    - Design, implement, and empirically evaluate a research-quality mobile or edge
+    system, and report the results clearly.
+
+    '
 - type: markdown
   title: Grading
-  body: |
-    - **Paper Presentations:** TBA
-    - **Paper Reviews / Participation:** TBA
-    - **Course Project:** TBA
+  body: "- **Exam:** 30%\r\n- **Paper Presentations:** 20%\r\n- **Participation:**\
+    \ 10%\r\n- **Course Project:** 40%"
 - type: markdown
   title: Prerequisites
-  body: |
-    Graduate standing, or permission of the instructor. Familiarity with operating systems, computer networks, and basic machine learning is recommended. Programming experience (Python and/or C/C++) is expected for the course project.
+  body: 'Graduate standing, or permission of the instructor. Familiarity with operating
+    systems, computer networks, and basic machine learning is recommended. Programming
+    experience (Python and/or C/C++) is expected for the course project.
+
+    '
 - type: markdown
   title: Communication
-  body: |
-    Course communication will be conducted through Piazza. The signup link and access code will be posted under the Announcements tab in **UBLearns Brightspace**.
+  body: 'Course communication will be conducted through Piazza. The signup link and
+    access code will be posted under the Announcements tab in **UBLearns Brightspace**.
+
+    '
 - type: markdown
   title: Academic Integrity
-  body: |
-    - No tolerance on cheating!
-      - All academic integrity violation cases will be reported to the department, school, and university, and recorded.
-      - Fail the course on any assignment, project, or exam even for a first offense.
-      - Team members are **equally responsible**.
-      - Consult the Department and University Statements on Academic Integrity.
-      - Group study and discussion are encouraged, but the submission must be your own work.
-    - Paper reviews and reports must be written up individually. Use of reference materials online is allowed, provided that the submission explicitly cites the references used. Copying solutions or reviews from online sources or from a previous semester is still considered cheating even if you cite the sources.
-    - Projects can be done individually or in teams. One submission per team, one grade per team. Discussing concepts is permitted; sharing source code across teams is strictly prohibited. When external resources are consulted, clearly annotate the relevant sections of your work, marking where the referenced material begins and ends.
-    - Students who share their work with others are as responsible for academic dishonesty as the student receiving the material. Students are responsible for the security of their work.
-    - Excuses such as "I was not sure" or "I did not know" will not be accepted. If you are not sure, ask the instructor.
-    - Any student may withdraw their submission any time, no questions asked, BEFORE any violation is discovered.
+  body: "- No tolerance on cheating!\n  - All academic integrity violation cases will\
+    \ be reported to the department, school, and university, and recorded.\n  - Fail\
+    \ the course on any assignment, project, or exam even for a first offense.\n \
+    \ - Team members are **equally responsible**.\n  - Consult the Department and\
+    \ University Statements on Academic Integrity.\n  - Group study and discussion\
+    \ are encouraged, but the submission must be your own work.\n- Paper reviews and\
+    \ reports must be written up individually. Use of reference materials online is\
+    \ allowed, provided that the submission explicitly cites the references used.\
+    \ Copying solutions or reviews from online sources or from a previous semester\
+    \ is still considered cheating even if you cite the sources.\n- Projects can be\
+    \ done individually or in teams. One submission per team, one grade per team.\
+    \ Discussing concepts is permitted; sharing source code across teams is strictly\
+    \ prohibited. When external resources are consulted, clearly annotate the relevant\
+    \ sections of your work, marking where the referenced material begins and ends.\n\
+    - Students who share their work with others are as responsible for academic dishonesty\
+    \ as the student receiving the material. Students are responsible for the security\
+    \ of their work.\n- Excuses such as \"I was not sure\" or \"I did not know\" will\
+    \ not be accepted. If you are not sure, ask the instructor.\n- Any student may\
+    \ withdraw their submission any time, no questions asked, BEFORE any violation\
+    \ is discovered.\n"
 - type: people
   title: Course Staff
