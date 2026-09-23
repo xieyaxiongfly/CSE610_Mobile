@@ -28,7 +28,9 @@ lecture_sequence:
   - name: CSE610_lec04-MIMO.pdf
     url: https://xieyaxiongfly.github.io/CSE610_Mobile/static_files/uploads/CSE610_lec04-MIMO.pdf
 - topic: Localization
-  materials: []
+  materials:
+  - name: CSE610_lec05_Localization.pdf
+    url: https://xieyaxiongfly.github.io/CSE610_Mobile/static_files/uploads/CSE610_lec05_Localization.pdf
 - topic: 'Guest Talk: Prof. Ish Jain'
   materials: []
 - topic: Wireless Sensing
